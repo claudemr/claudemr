@@ -1,0 +1,3 @@
+- 👋 Hello, I’m Claude...
+- I code in C, C++ and D... I work on embedded systems and audio.
+- I'm also insterested in 3D programing.
